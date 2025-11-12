@@ -21,9 +21,39 @@ MonoBehaviour:
       m_GuidLow: 4635741332808656079
       m_GuidHigh: 13984011863404536204
     m_SerializedTextureGuid:
-      m_GuidLow: 10935960758103965435
-      m_GuidHigh: 15994318053438090411
+      m_GuidLow: 8229413232224363616
+      m_GuidHigh: 129214235495264185
     m_Size: {x: 0.0508, y: 0.0508}
     m_SpecifySize: 0
-    m_Name: fuse
+    m_Name: Biblioteca_Marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4654792267452442087
+      m_GuidHigh: 16232198474083727035
+    m_SerializedTextureGuid:
+      m_GuidLow: 11179081814808562112
+      m_GuidHigh: 10267054877439141962
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Cafeteria_Marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5061079690012452861
+      m_GuidHigh: 12408847483852372114
+    m_SerializedTextureGuid:
+      m_GuidLow: 12615831544375751618
+      m_GuidHigh: 11438000020463561784
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Laboratorio_Marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5637056630800254981
+      m_GuidHigh: 696540609006226816
+    m_SerializedTextureGuid:
+      m_GuidLow: 9585027391546523770
+      m_GuidHigh: 13166704273919632059
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Auditorio_Marker
     m_Texture: {fileID: 0}

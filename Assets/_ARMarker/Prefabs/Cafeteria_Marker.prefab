@@ -938,7 +938,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1769154823179702955}
   m_Layer: 0
-  m_Name: JohnLemon
+  m_Name: Cafeteria_Marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1473,7 +1473,9 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 730797829146455667, guid: 53248159ae746e049b29d3e1aa32523d, type: 3}
       propertyPath: m_text
-      value: Hola
+      value: 'Bienvenido a la Cafeteria
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 730797829146455667, guid: 53248159ae746e049b29d3e1aa32523d, type: 3}
       propertyPath: m_sharedMaterial
